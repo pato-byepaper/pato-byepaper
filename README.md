@@ -30,7 +30,7 @@
 - **Natural Language Processing (NLP):** Text Mining & Language Models
 - **Software Engineering:** Clean Code, APIs & System Architecture
 
-## Tech Stack:**  
+## Tech Stack:
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
