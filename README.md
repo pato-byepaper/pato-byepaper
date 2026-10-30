@@ -30,7 +30,7 @@ name: Patricio Villanueva Gio
 aka: Pato
 role: Principal Sr Software Developer at @ByePaper
 based_in: Guadalajara, Mexico
-education: Data Science Engineering
+education: Data Science Engineering at ITESO
 
 builds:
   - AI infrastructure that runs agents in production
